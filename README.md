@@ -1,10 +1,10 @@
 # 图像处理 100 问！！
 
-***English is here*** (KuKuXia translates into English)
+***English is here*** 
 
 > https://github.com/KuKuXia/Image_Processing_100_Questions
 
-***Chinese is here***  (gzr2017, my ex-colleague, translates into Chinese)
+***Chinese is here***  
 
 > https://github.com/gzr2017/ImageProcessing100Wen
 
